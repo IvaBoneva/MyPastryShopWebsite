@@ -10,7 +10,7 @@ The goal is to create a **visually appealing** and **user-friendly interface** t
 - **JavaScript** – for interactivity and dynamic behavior
 
 ## 🎯 Features
-- 🧁 Product showcase (e.g., cakes, pastries, etc.)  
+- 🧁 Product showcase (e.g., cakes)  
 - 🧭 Navigation menu  
 - 🎨 Interactive elements (buttons, hover effects, etc.)
 
