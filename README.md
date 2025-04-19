@@ -1,4 +1,3 @@
-# MyPastryShopWebsite
 Pastry Shop Website – Front-End Project
 📋 Description
 This is a coursework project that focuses on the development of the front-end (client-side) of a website for a pastry shop.
